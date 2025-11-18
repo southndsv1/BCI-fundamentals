@@ -1,0 +1,15 @@
+subject,paradigm,classifier,session,accuracy,std,evaluation
+S00_2class,2-class,lda,session_0,1.0,0.0,within-session
+S00_2class,2-class,svm,session_0,0.9875,0.025,within-session
+S01_2class,2-class,lda,session_0,1.0,0.0,within-session
+S01_2class,2-class,svm,session_0,1.0,0.0,within-session
+S02_2class,2-class,lda,session_0,1.0,0.0,within-session
+S02_2class,2-class,svm,session_0,0.9875,0.024999999999999998,within-session
+S03_2class,2-class,lda,session_0,1.0,0.0,within-session
+S03_2class,2-class,svm,session_0,0.9875,0.025,within-session
+S04_2class,2-class,lda,session_0,1.0,0.0,within-session
+S04_2class,2-class,svm,session_0,1.0,0.0,within-session
+S00_3class,3-class,lda,session_0,1.0,0.0,within-session
+S00_3class,3-class,svm,session_0,0.9916666666666668,0.016666666666666653,within-session
+S01_3class,3-class,lda,session_0,1.0,0.0,within-session
+S01_3class,3-class,svm,session_0,1.0,0.0,within-session
