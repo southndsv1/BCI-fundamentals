@@ -1,0 +1,51 @@
+# BCI Motor Imagery Pipeline - Git Ignore
+
+# Data directory (contains large dataset files)
+data/
+*.npz
+*.mat
+*.h5
+
+# Results directory (generated outputs)
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MNE
+.mne/
